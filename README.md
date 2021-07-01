@@ -5,7 +5,7 @@
 From npm
 
 ```
-npm i ig-basic-api
+npm install ig-basic-api
 ```
 
 # Example
